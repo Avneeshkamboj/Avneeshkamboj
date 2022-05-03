@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avneeshkamboj
-- 👀 I’m interested in magneto 2 work
-- 🌱 I’m currently learning React js
+- 👀 I’m interested in React Js, Magento 2, Wordpress  work
+- 🌱 I’m currently Working on React js
 - 💞️ I’m good in Core PHP, Magneto 2, wordpress, shopify, html, css, JS etc.
 - 📫 kamboj.avnish202@gmail.com
 
